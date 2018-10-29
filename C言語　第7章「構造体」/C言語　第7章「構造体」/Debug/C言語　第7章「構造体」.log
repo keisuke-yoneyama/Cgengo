@@ -1,0 +1,12 @@
+﻿  C言語第7章「構造体」.cpp
+c:\users\sudde\desktop\workspace\c言語　第7章「構造体」\c言語　第7章「構造体」\c言語第7章「構造体」.cpp(64): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+c:\users\sudde\desktop\workspace\c言語　第7章「構造体」\c言語　第7章「構造体」\c言語第7章「構造体」.cpp(89): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+  c:\users\sudde\desktop\workspace\c言語　第7章「構造体」\c言語　第7章「構造体」\c言語第7章「構造体」.cpp(89): note: プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+  c:\users\sudde\desktop\workspace\c言語　第7章「構造体」\c言語　第7章「構造体」\c言語第7章「構造体」.cpp(89): note: 不足している可変個引数 2 が書式文字列 '%s' に必要です
+  c:\users\sudde\desktop\workspace\c言語　第7章「構造体」\c言語　第7章「構造体」\c言語第7章「構造体」.cpp(89): note: この引数はバッファー サイズとして使用されます
+c:\users\sudde\desktop\workspace\c言語　第7章「構造体」\c言語　第7章「構造体」\c言語第7章「構造体」.cpp(115): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+  c:\users\sudde\desktop\workspace\c言語　第7章「構造体」\c言語　第7章「構造体」\c言語第7章「構造体」.cpp(115): note: プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+  c:\users\sudde\desktop\workspace\c言語　第7章「構造体」\c言語　第7章「構造体」\c言語第7章「構造体」.cpp(115): note: 不足している可変個引数 2 が書式文字列 '%s' に必要です
+  c:\users\sudde\desktop\workspace\c言語　第7章「構造体」\c言語　第7章「構造体」\c言語第7章「構造体」.cpp(115): note: この引数はバッファー サイズとして使用されます
+c:\users\sudde\desktop\workspace\c言語　第7章「構造体」\c言語　第7章「構造体」\c言語第7章「構造体」.cpp(122): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  C言語　第7章「構造体」.vcxproj -> C:\Users\sudde\Desktop\Workspace\C言語　第7章「構造体」\Debug\C言語　第7章「構造体」.exe
